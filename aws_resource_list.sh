@@ -20,10 +20,10 @@
 ########################################################################
 
 #Usage of the script
-./aws_resource_list.sh <region> <service_name>
+# ./aws_resource_list.sh <region> <service_name>
 
 #Example
-./aws_resource_list.sh us-east-1 EC2
+# ./aws_resource_list.sh us-east-1 EC2
 
 ########################################################################
 
